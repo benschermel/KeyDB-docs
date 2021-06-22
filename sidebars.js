@@ -44,7 +44,7 @@ module.exports = {
 		{type: 'category', label: 'Load Balancers', items: ["haproxy"]},
 		{type: 'category', label: 'Security', items: ["security", "acl", "encryption"]},
 		{type: 'category', label: 'Troubleshooting', items: ["debugging", "ldb", "latency", "latency-monitor"]},
-		{type: 'category', label: 'Clients/APIs/Protocols', items: ["clients", "keydbcli", "protocol", "gopher"]},
+		{type: 'category', label: 'Clients/APIs/Protocols', items: ["clients", "keydbcli", "keydbdiagnostictool", "protocol", "gopher"]},
 		{type: 'category', label: 'More', items: ["ARM", "faq", "memory-optimization", "license"]}
 	],
 };
